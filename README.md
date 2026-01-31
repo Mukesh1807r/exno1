@@ -148,10 +148,10 @@ z
 ir1=ir[z<3]
 ir1
 ```
+<img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/f2ff67de-2f1c-4abe-9c1f-b902ac5492f7" />
 
-                              # PROGRAM END
 
-
+ <h2 align="center"><u>PROGRAM END</u></h2>
 
 
 
@@ -162,3 +162,6 @@ Thus, the given dataset was successfully read and cleaned.
 Missing values were identified and handled using different techniques such as removal, replacement, and forward fill.
 Outliers were detected and removed using the Interquartile Range (IQR) and Z-Score methods.
 The cleaned data obtained is accurate, consistent, and suitable for further analysis.
+
+<img width="1000" height="110" alt="image" src="https://github.com/user-attachments/assets/778d1bc4-0c0d-4492-8c58-a9c672c0fcdf" />
+
